@@ -20,7 +20,6 @@
 
 ## 🧰 Herramientas y habilidades
 
-- 💻 AutoCAD (dibujo de planos de máquinas)  
 - 📊 Excel y organización de datos  
 - 🌐 Programación básica (en aprendizaje)  
 
@@ -37,8 +36,8 @@ En este repositorio encontrarás proyectos relacionados con:
 
 ## 📫 Contacto
 
-- ✉️ Correo: [tu correo aquí]  
-- 📷 Instagram: [opcional]  
+- ✉️ Correo: maximiliana.ramos@upch.pe
+- 📷 Instagram: imaximiliana  
 
 ---
 
