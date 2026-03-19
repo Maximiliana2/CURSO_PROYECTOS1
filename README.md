@@ -1,8 +1,9 @@
 # CURSO_PROYECTOS1
 
 # ¡Hola! 👋 Soy Maximiliana Ramos
+<p align="center">
 <img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/3bfcded7-0d23-402d-b530-d77991291fc9" />
-
+<p>
 
 ✨ Estudiante de ingeniería con interés en el diseño, la organización y el aprendizaje continuo.  
 💻 Me gusta desarrollar proyectos que combinan creatividad y funcionalidad.  
