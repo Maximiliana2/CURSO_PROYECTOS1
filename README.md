@@ -1,45 +1,46 @@
 # CURSO_PROYECTOS1
 
-# Hi there 👋 I'm Maximiliana
+# ¡Hola! 👋 Soy Maximiliana Ramos
 
-✨ Engineering student passionate about design, organization and continuous learning.  
-💻 I enjoy working on projects that combine creativity and functionality.  
-🌱 Currently learning: English & improving my technical skills  
-📍 Based in Peru  
-
----
-
-## 🚀 About Me
-
-- 🎓 Engineering student  
-- 🛠️ Interested in: design, productivity tools and tech projects  
-- 📚 Always learning new things and improving my skills  
-- 🌿 I like minimalism, calm aesthetics and creative ideas  
+✨ Estudiante de ingeniería con interés en el diseño, la organización y el aprendizaje continuo.  
+💻 Me gusta desarrollar proyectos que combinan creatividad y funcionalidad.  
+🌱 Actualmente estoy mejorando mi inglés y fortaleciendo mis habilidades técnicas.  
+📍 Perú  
 
 ---
 
-## 🧰 Tech & Tools
+## 🚀 Sobre mí
 
-- 💻 AutoCAD / Engineering tools  
-- 📊 Excel / Data organization  
-- 🌐 Basic programming (learning stage)  
-
----
-
-## 📌 Projects
-
-Here you will find some of my projects related to:
-- Engineering  
-- Organization & productivity  
-- Personal learning  
+- 🎓 Estudiante de ingeniería  
+- 🛠️ Intereses: diseño de planos, herramientas de productividad y proyectos tecnológicos  
+- 📚 En constante aprendizaje y crecimiento personal  
+- 🌿 Me gusta el estilo minimalista, la organización y las ideas creativas  
 
 ---
 
-## 📫 Contact
+## 🧰 Herramientas y habilidades
 
-- ✉️ Email: your-email@example.com  
-- 🌸 Instagram (optional): your-user  
+- 💻 AutoCAD (dibujo de planos de máquinas)  
+- 📊 Excel y organización de datos  
+- 🌐 Programación básica (en aprendizaje)  
 
 ---
 
-> "Keep growing, even if it's slowly 🌱"
+## 📌 Proyectos
+
+En este repositorio encontrarás proyectos relacionados con:
+- Ingeniería  
+- Organización y productividad  
+- Aprendizaje personal  
+
+---
+
+## 📫 Contacto
+
+- ✉️ Correo: [tu correo aquí]  
+- 📷 Instagram: [opcional]  
+
+---
+
+> "Sigue creciendo, incluso si es poco a poco 🌱"
+> 
